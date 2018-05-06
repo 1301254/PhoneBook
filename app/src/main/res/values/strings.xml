@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string-array name="name_sort">
+        <item>昇順</item>
+        <item>降順</item>
+    </string-array>
+</resources>
